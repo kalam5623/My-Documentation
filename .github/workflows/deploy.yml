@@ -4,6 +4,12 @@ on:
     branches:
       - master # आपकी GitHub ब्रांच का नाम
 
+# *यह ब्लॉक जोड़ना ही पिछली अनुमति (Permission) समस्या का समाधान है*
+permissions:
+  contents: write # बॉट को कोड पुश करने की अनुमति देता है
+  pages: write    # बॉट को GitHub Pages डिप्लॉय करने की अनुमति देता है
+  id-token: write # यह OIDC प्रमाणीकरण के लिए जरूरी है
+
 jobs:
   deployment:
     runs-on: ubuntu-latest
