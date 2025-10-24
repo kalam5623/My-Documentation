@@ -21,11 +21,11 @@ const config = {
 
   // Set the production url of your site here
   // यह आपकी GitHub Pages URL होगी
-  url: 'https://kalam5623.github.io', 
+  url: 'https://docs.metasol.ai', 
   
   // Set the /<baseUrl>/ pathname under which your site is served
   // यह आपके रिपॉज़िटरी का नाम है
-  baseUrl: '/My-Documentation/', 
+  baseUrl: '/', 
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
