@@ -30,9 +30,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kalam5623', // आपका GitHub यूज़रनेम
-  projectName: 'My-Documentation', // आपके GitHub रिपॉज़िटरी का नाम
-  deploymentBranch: 'master',
-  
+  projectName: 'My-Documentation', // आपके GitHub रिपॉज़िटरी का नामclaee
   onBrokenLinks: 'throw', // <-- यहाँ कॉमा (,) नहीं चाहिए क्योंकि इसके बाद i18n है
 
   // Even if you don't use internationalization, you can use this field to set
