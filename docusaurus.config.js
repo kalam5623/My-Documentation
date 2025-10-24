@@ -85,7 +85,7 @@ const config = {
         title: 'METASOL',
         logo: {
           alt: 'METAsol Logo',
-          src: 'img/logo.png',
+          src: 'img/Logo.png',
         },
         items: [
           {
